@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on improving my skills in finding security weaknesses in systems.<br>👯 I’m looking to collaborate on projects that teach people about cybersecurity.<br>🤝 I’m looking for help with using AI to spot security threats.<br>🌱 I’m currently learning how to keep cloud services safe.<br>💬 Ask me about how to protect networks ,different Cybersecurity tools ,frameworks and Terminology and About Kali Linux.<br>⚡ Fun fact - I Easily trust on People.<br>
+ 🔭 I’m currently working on improving my skills in finding security weaknesses in systems.<br>👯 I’m looking to collaborate on projects that teach people about cybersecurity.<br>🤝 I’m looking for help with using AI to spot security threats.<br>🌱 I’m currently learning how to keep cloud services safe.<br>💬 Ask me about how to protect networks ,different Cybersecurity tools ,frameworks and Terminology and About Kali Linux.<br>⚡ Fun fact - I run more commands in my terminal than I do steps in a day.<br>
 
 
 ## 🌐 Socials:
